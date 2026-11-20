@@ -4,11 +4,11 @@
 
 Nakagawa Kozan's Idō discusses observation, reading, therapeutic reasoning, and a physician's responsibilities in eleven chapters. The Fujikawa Collection print held by Kyoto University contains a preface dated 1828, the author's afterword dated 1826, and Japanese reading annotations.
 
-## V0.1.0
+## V0.2.0
 
-這版提供 33 幅影像的逐幅定位。本版記錄 AI 輔助初讀；別頁、夾注及可辨原筆標記依位置編碼。
+這版提供 33 幅影像的逐幅定位。每幅另經獨立重讀，再以原圖裁定採用 53 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-This edition covers 33 scans. This edition preserves an AI-assisted initial reading, with visible notes and other features referenced to the scan.
+This edition covers 33 scans. Each image was read independently again. Targeted adjudication against the source images adopted 53 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

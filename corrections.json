@@ -1,0 +1,1300 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 53,
+  "changes": [
+    {
+      "image": 17,
+      "side": "left",
+      "column": 2,
+      "kind": "text",
+      "before": "毒之品決不得效然服大毒者人之所甚恐怖故古",
+      "after": "毒之品決不得効然服大毒者人之所甚恐怖故古",
+      "reason": "右側明見力旁。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p17"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": 2,
+      "kind": "text",
+      "before": "當今之病宿毒居十之八而盤結堅牢不可容易解故",
+      "after": "當今之病宿毒居十之八而盤結堅牢不可容解故",
+      "reason": "不可二字後只見容、解，無易字。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p18"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": 9,
+      "kind": "text",
+      "before": "凡為治者唯在精氣不缺者而能收全功矣精氣有",
+      "after": "凡為治者唯在精氣不缺者而能収全功矣精氣有",
+      "reason": "左側為收的異體，右下又旁清楚。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p18"
+    },
+    {
+      "image": 19,
+      "side": "left",
+      "column": 7,
+      "kind": "text",
+      "before": "其將自治之機而後製焉此從自然之道也如是",
+      "after": "其將自治之機而後發焉此從自然之道也如是",
+      "reason": "上部呈癶形，下部筆畫未成衣。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p19"
+    },
+    {
+      "image": 20,
+      "side": "right",
+      "column": 2,
+      "kind": "text",
+      "before": "也精氣畏縮而病毒益乘之也如是者姑置病毒而",
+      "after": "也精氣畏縮而病毒益乗之也如是者姑置病毒而",
+      "reason": "版面保留乗形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p20"
+    },
+    {
+      "image": 20,
+      "side": "right",
+      "column": 8,
+      "kind": "text",
+      "before": "凡疾病得治者以精氣自逐毒故遂排斥之也毒",
+      "after": "凡疾病將治者以精氣自逐毒故遂排斥之也毒",
+      "reason": "病下明見將的爿形與右部。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p20"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 5,
+      "kind": "text",
+      "before": "藥劑以他術為輔翼內外相俳以為全治因揭其要",
+      "after": "藥劑以他術為輔翼內外相併以為全治因揭其要",
+      "reason": "底本右側呈并。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p23"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 1,
+      "kind": "text",
+      "before": "貨財人皆忍為之其或雖更增痛苦猶不辭之語云",
+      "after": "貨財人皆忍為之其或雖更増痛苦猶不辭之語云",
+      "reason": "土旁右上呈八形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p24"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 4,
+      "kind": "text",
+      "before": "一則久而成效一則不日有効人必取其不日曰一",
+      "after": "一則久而成効一則不日有効人必取其不日曰一",
+      "reason": "兩個效字的右側均從力。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p24"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": 3,
+      "kind": "text",
+      "before": "亦復然欲取前所施以得效於今必不能也何也以",
+      "after": "亦復然欲取前所施以得効於今必不能也何也以",
+      "reason": "力旁清楚。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p26"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 4,
+      "kind": "text",
+      "before": "之未不得不生弊也何也奉守者遂將忘自然之體",
+      "after": "之末不得不生弊也何也奉守者遂將忘自然之體",
+      "reason": "首橫明顯較長。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p29"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": 2,
+      "kind": "text",
+      "before": "建後世子弟學醫者之標準爾",
+      "after": "建後世子弟學醫者之標準甬",
+      "reason": "末字見龴加用的構形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p32"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 0,
+      "kind": "extras",
+      "before": [
+        {
+          "type": "seal",
+          "text": "183645\n昭□.3.31",
+          "location": "上方偏左黑色橢圓登錄戳",
+          "color": "black"
+        },
+        {
+          "type": "seal",
+          "text": "京都帝國大學圖書之印",
+          "location": "頁頂靠內朱篆方印",
+          "color": "red"
+        },
+        {
+          "type": "seal",
+          "text": "間□□□",
+          "location": "序題下黑篆條印",
+          "color": "black"
+        },
+        {
+          "type": "seal",
+          "text": "□□",
+          "location": "書葉下右朱篆方印",
+          "color": "red"
+        },
+        {
+          "type": "seal",
+          "text": "富士川游寄贈",
+          "location": "書葉下右內側朱篆條印",
+          "color": "red"
+        }
+      ],
+      "after": [
+        {
+          "type": "seal",
+          "text": "183645\n大正7.3.31",
+          "location": "上方偏左黑色橢圓登錄戳",
+          "color": "black"
+        },
+        {
+          "type": "seal",
+          "text": "京都帝國大學圖書之印",
+          "location": "頁頂靠內朱篆方印",
+          "color": "red"
+        },
+        {
+          "type": "seal",
+          "text": "間□□□",
+          "location": "序題下黑篆條印",
+          "color": "black"
+        },
+        {
+          "type": "seal",
+          "text": "□□",
+          "location": "書葉下右朱篆方印",
+          "color": "red"
+        },
+        {
+          "type": "seal",
+          "text": "富士川游寄贈",
+          "location": "書葉下右內側朱篆條印",
+          "color": "red"
+        }
+      ],
+      "reason": "橢圓戳放大可見年份前有合寫的「大正」小字，後接7及3.31，與昭形不同。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p2"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 2,
+      "kind": "text",
+      "before": "扁鵲傳足以觀其蹟矣然其法不可憲",
+      "after": "扁鵲傳足以觀其蹟矣然其法不可忘",
+      "reason": "放大原圖可見上部亡向右伸、下部心三筆，不具憲的宀或盡的皿。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p3"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 3,
+      "kind": "text",
+      "before": "唱長沙之法海內靡然嚮風然其學未",
+      "after": "唱長沙之法海内靡然嚮風然其學未",
+      "reason": "海下字框中左斜筆從框外入，下右斜筆短，從原字形錄内。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p3"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 3,
+      "kind": "text",
+      "before": "之方苟可補其遺缺者□收而不置日",
+      "after": "之方苟可補其遺缺者無収而不置日",
+      "reason": "者下首字帶拖墨，仍可辨橫畫與下方數點；次字左丩右又。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p4"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 6,
+      "kind": "text",
+      "before": "門人山內休美謹譔",
+      "after": "門人山内休美謹譔",
+      "reason": "署名同一行，門人下留明顯空距。山下框內為人形，保存内。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p5"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 5,
+      "kind": "text",
+      "before": "不去者有毒去而患猶存者俱收其全功則良醫",
+      "after": "不去者有毒去而患猶存者俱収其全功則良醫",
+      "reason": "俱下圖字左側呈竪折，右件又，同第四幅右第3欄的収。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p5"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 3,
+      "kind": "text",
+      "before": "治之為術上古專用外治後世漸用內治今也內外",
+      "after": "治之為術上古專用外治後世漸用内治今也内外",
+      "reason": "用下框內為人形，兩斜筆畫可見。 也下同欄再見字形内。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 7,
+      "kind": "text",
+      "before": "古昔治疾病率由外中古而還雖用內治猶且以",
+      "after": "古昔治疾病率由外中古而還雖用内治猶且以",
+      "reason": "用下之字同右第3欄的内形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 8,
+      "kind": "text",
+      "before": "外為主今也反之由內者以方藥為主由外者以",
+      "after": "外為主今也反之由内者以方藥為主由外者以",
+      "reason": "由下字形同右第3欄的内。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 7,
+      "kind": "text",
+      "before": "觀察之法即診候之事也驅除之術即內外之治",
+      "after": "觀察之法即診候之事也驅除之術即内外之治",
+      "reason": "即下框內兩斜筆與右頁反覆出現的内相符。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 9,
+      "kind": "text",
+      "before": "諸術追世而益多端紛然錯雜大生疑惑沙之汰",
+      "after": "諸術追世而益多端紛紜錯雜大生疑惑沙之汰",
+      "reason": "紛下見左側糸筆及右側云形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 6,
+      "kind": "text",
+      "before": "命故不至誠之履則反生怨恨可不謹焉哉",
+      "after": "命故不至誠之履則又生怨恨可不謹焉哉",
+      "reason": "則下字起筆單折，交叉兩斜筆，無反的外撇。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p7"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 5,
+      "kind": "text",
+      "before": "實有之者寫也故或問之或忖度之鉤隱入密者",
+      "after": "實有之者寫也故或問之或忖度之鈎隱入密者",
+      "reason": "金旁右件內折為厶，取鈎。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p7"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 9,
+      "kind": "text",
+      "before": "地凡百疾病盡不出於此□圍也",
+      "after": "地凡百疾病盡不出於此圏圍也",
+      "reason": "此下字外囗內卷，末有橫折，形取圏。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p8"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 4,
+      "kind": "text",
+      "before": "氣將盡也此二者無出他故為極地",
+      "after": "氣將盡也此二者無出廼故為極地",
+      "reason": "出下字上見西、左下外筆折而長伸，取廼。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p8"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 6,
+      "kind": "text",
+      "before": "耳蓋氣也者與太虛之氣呼應液偕之行也液有三",
+      "after": "耳蓋氣也者與太虚之氣呼應液偕之行也液有三",
+      "reason": "虍下中間筆為直竪與平底橫，取虚。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p8"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 1,
+      "kind": "text",
+      "before": "人之身體以三液而成故其發乎形證亦皆□焉",
+      "after": "人之身體以三液而成故其發乎形證亦皆蹊焉",
+      "reason": "放大可見足旁，右上分斜點，下方為幺形和大，支持蹊。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 7,
+      "kind": "text",
+      "before": "上古之人無有宿毒矣其有疾病唯隨氣化之變耳",
+      "after": "上古之人無有宿毒矣其有疾病唯罹氣化之變耳",
+      "reason": "唯下字見上方細框，右下隹短橫清楚。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 3,
+      "kind": "text",
+      "before": "澀滯也今夫長沙氏之所傳唯主七劑服飲此中古",
+      "after": "澁滯也今夫長沙氏之所傳唯主七劑服飲此中古",
+      "reason": "右件有疊止筆勢。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 5,
+      "kind": "text",
+      "before": "人淳朴則血氣無所淡滯故其有疾病亦自易去",
+      "after": "人淳朴則血氣無所澁滯故其有疾病亦自易去",
+      "reason": "所下同左第3欄起首的澁，氵右多短竪與點。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 7,
+      "kind": "text",
+      "before": "按扤以通血脈則無不治者若夫汚滯之甚則鍼",
+      "after": "按抗以通血脈則無不治者若夫汚滯之甚則鍼",
+      "reason": "按之下扌旁右部亠下几，同第10幅左第9欄的抗。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 9,
+      "kind": "text",
+      "before": "通滯着者此上古之道也雖今之世其人淳素其疾",
+      "after": "通滯着此上古之道也雖今之世其人淳素其疾",
+      "reason": "左欄通、滯、着逐字可見，着側下為圈點，其下即此，沒有獨立者字。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 2,
+      "kind": "text",
+      "before": "視如芻狗哉若夫宿毒醸於內而疾病發於外則",
+      "after": "視如芻狗哉若夫宿毒醸於内而疾病發於外則",
+      "reason": "於下框中見人形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 3,
+      "kind": "text",
+      "before": "非內服毒藥決不治矣故必採擇藥物以供其用",
+      "after": "非内服毒藥決不治矣故必採擇藥物以供其用",
+      "reason": "非下框中見人形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 7,
+      "kind": "text",
+      "before": "當今治疾也專從中世之道湯液以蕩滌諸液丸散",
+      "after": "當今治疾也專從中世之道湯液以盪滌諸液丸散",
+      "reason": "湯形下明見皿底，且無上艹。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 7,
+      "kind": "text",
+      "before": "眞得古人之意者也",
+      "after": "真得古人之意者也",
+      "reason": "首字上為十形，筆順及外框構形支持真。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 8,
+      "kind": "text",
+      "before": "今也雖主用內服然外施亦不必廢之夫外施有按",
+      "after": "今也雖主用内服然外施亦不必廢之夫外施有按",
+      "reason": "用下框中人形明顯。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 9,
+      "kind": "text",
+      "before": "扤毒熨灌治之術鍼刺灸烙薰蒸之法內服有湯液",
+      "after": "抗毒熨灌治之術鍼刺灸烙薰蒸之法内服有湯液",
+      "reason": "欄首放大可見扌旁、右亠下几。 法下框中人形可見。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 2,
+      "kind": "text",
+      "before": "今也人之為道有仁有義治病之法雖多端亦不出",
+      "after": "人也人之為道有仁有義治病之法雖多端亦不出",
+      "reason": "欄首兩斜筆，右下黑墨跨至也。與同行也下人形可比，取人。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p11"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 4,
+      "kind": "text",
+      "before": "外施之術內服之法雖各異其宜所以行之之要",
+      "after": "外施之術内服之法雖各異其宜所以行之之要",
+      "reason": "術下與其他内字框中人形同。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 4,
+      "kind": "text",
+      "before": "為病在血為變然亦有過不及之異乳之嬰兒則頗",
+      "after": "為病在血為變然亦有過不及之異况之嬰兒則頗",
+      "reason": "異下右件上口下儿，左有短細筆；見况形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 6,
+      "kind": "text",
+      "before": "為變比之婦女更又加難故曰十兒易而一女難十",
+      "after": "為憂比之婦女更又加難故曰十兒易而一女難十",
+      "reason": "為下較上有蓋頭，底部多心形細墨，對照同面其他變字的主體筆畫有別。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p11"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 6,
+      "kind": "text",
+      "before": "心思安穩故市井之民有疾病則病毒固著而藥力",
+      "after": "心思安穩故市井之民有疾病則病毒固着而藥力",
+      "reason": "固下字中心斜筆穿過數橫，下是目框，取着。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p12"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 5,
+      "kind": "text",
+      "before": "民比近世遠阪之人比上古此風土之別爾又身體",
+      "after": "民比近世遠陬之人比上古此風土之別爾又身體",
+      "reason": "遠下左阝，右可辨耳和又，取陬。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p12"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 9,
+      "kind": "text",
+      "before": "之滑澀疾徐皆從氣為變故必問其風土且夫富",
+      "after": "之滑澁疾徐皆從氣為變故必問其風土且夫富",
+      "reason": "滑下氵旁且右疊止，與第9幅左第3欄澁同形。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p12"
+    },
+    {
+      "image": 13,
+      "side": "right",
+      "column": 6,
+      "kind": "text",
+      "before": "着則同氣必會湊以成形凡草木禽獸以至金石鹵",
+      "after": "者則同氣必會湊以成形凡草木禽獸以至金石鹵",
+      "reason": "欄首可見耂下日，對照本面其他者字所採筆法。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p13"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 7,
+      "kind": "text",
+      "before": "則不能的知也然則醫之為事與賤隸工職何擇",
+      "after": "則不能的知也然則醫之為事與賤隷工職何擇",
+      "reason": "放大賤下字，左見士、示，右見隶，取隷。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p14"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 4,
+      "kind": "text",
+      "before": "故合和之咸有妙用而存焉凡病發見於外者隨發",
+      "after": "故合和之成有妙用而存焉凡病發見於外者隨發",
+      "reason": "合和之下字斜戈中無獨立口，取成。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p15"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 5,
+      "kind": "text",
+      "before": "動而制之伏結於內者應伏匿而滅之此方劑之所",
+      "after": "動而制之伏結於内者應伏匿而滅之此方劑之所",
+      "reason": "於下框內為人形，保留内。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p15"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 3,
+      "kind": "text",
+      "before": "所用雖幸有雜病論存竟屬殘缺故試之事間有所",
+      "after": "所用雖幸有雜病論存竟属殘缺故試之事間有所",
+      "reason": "竟下字呈尸下簡形，和屬字的多層筆畫有別。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p16"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 9,
+      "kind": "text",
+      "before": "今歷覽群籍唐宋猶偶有存古方者本邦亦幸有",
+      "after": "今歴覽群籍唐宋猶偶有存古方者本邦亦幸有",
+      "reason": "放大可見厂內兩木筆，底下止形，取歴。",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p16"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p1",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p2",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p3",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p3",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p4",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p5",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p5",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p5",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p5",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p6",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p7",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p7",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p7",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p8",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p8",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p9",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p10",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p11",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p11",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p12",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p12",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p12",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 13,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p13",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p13",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p14",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p14",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 15,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p15",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p15",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p16",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p16",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p17",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p17",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p17",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p17",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p18",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p18",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p18",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p19",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p19",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 19,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p19",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 20,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p20",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 20,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p20",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 20,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p20",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 20,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p20",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 20,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p20",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 21,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 21,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 21,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p21",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p22",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 22,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p22",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 22,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p22",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p23",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p23",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p23",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p23",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p23",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p23",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p24",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p24",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p24",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 25,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p25",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 25,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p25",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 25,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p25",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p26",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p26",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p26",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p26",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p26",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p27",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p27",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p27",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 27,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p27",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p28",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p28",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p28",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p28",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p28",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p29",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p29",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p29",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p30",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p30",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p30",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p31",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p31",
+      "status": "已回圖，未改字"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p31",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p32",
+      "status": "未另作裁定"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": 0,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000469/canvas/p32",
+      "status": "未另作裁定"
+    }
+  ]
+}

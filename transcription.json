@@ -16,11 +16,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000469/manifest.json",
     "manifest_sha256": "aa83af1ab6a6ed6c57a1e54aad2646532929a37f5704ec056a9c9f1e280ec2f8",
     "record_id": "RB00000469",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫道（1828 序，京都大學 イ/243） / Idō [The way of medicine]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -42,7 +42,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "left",
@@ -72,7 +72,8 @@
           "note": "題簽首字上部有剝落，酉形及右上殘筆可見"
         }
       ],
-      "observations": "完整單面封面，裝訂在右，題簽與藏書籤另錄。畫幅右側為攝影尺標與色卡。"
+      "observations": "完整單面封面，裝訂在右，題簽與藏書籤另錄。畫幅右側為攝影尺標與色卡。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 2,
@@ -89,7 +90,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "preface-or-opening",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -216,7 +217,7 @@
           "extras": [
             {
               "type": "seal",
-              "text": "183645\n昭□.3.31",
+              "text": "183645\n大正7.3.31",
               "location": "上方偏左黑色橢圓登錄戳",
               "color": "black"
             },
@@ -280,7 +281,8 @@
           "note": "黑色橢圓戳下行靠左紀年細小"
         }
       ],
-      "observations": "右為封面內側，左有序文七直欄，書口計格磨洇。朱印、黑戳與墨書正文各存。"
+      "observations": "右為封面內側，左有序文七直欄，書口計格磨洇。朱印、黑戳與墨書正文各存。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 3,
@@ -297,7 +299,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "preface-or-opening",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -319,7 +321,7 @@
               "notes": []
             },
             {
-              "text": "扁鵲傳足以觀其蹟矣然其法不可憲",
+              "text": "扁鵲傳足以觀其蹟矣然其法不可忘",
               "marks": [
                 {
                   "after": 3,
@@ -427,7 +429,7 @@
               "notes": []
             },
             {
-              "text": "唱長沙之法海內靡然嚮風然其學未",
+              "text": "唱長沙之法海内靡然嚮風然其學未",
               "marks": [
                 {
                   "after": 5,
@@ -518,7 +520,8 @@
           "note": "字可見兩組木形筆，暫錄林"
         }
       ],
-      "observations": "雙葉各七欄。右葉上方的淡印為前葉透背。右葉第7欄『豈足以』旁細框形淡影來源待核。"
+      "observations": "雙葉各七欄。右葉上方的淡印為前葉透背。右葉第7欄『豈足以』旁細框形淡影來源待核。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 4,
@@ -535,7 +538,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "preface-or-opening",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -573,7 +576,7 @@
               "notes": []
             },
             {
-              "text": "之方苟可補其遺缺者□收而不置日",
+              "text": "之方苟可補其遺缺者無収而不置日",
               "marks": [
                 {
                   "after": 2,
@@ -788,7 +791,8 @@
           "note": "有一條較粗墨線斜過相鄰字形，『者』下字細筆有疊筆，待再核"
         }
       ],
-      "observations": "雙葉各七欄。左葉『先生』前見敬稱抬頭空間。"
+      "observations": "雙葉各七欄。左葉『先生』前見敬稱抬頭空間。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 5,
@@ -805,7 +809,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "preface-or-opening",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -863,7 +867,7 @@
               "notes": []
             },
             {
-              "text": "門人山內休美謹譔",
+              "text": "門人山内休美謹譔",
               "marks": [],
               "notes": []
             },
@@ -1010,7 +1014,7 @@
               "notes": []
             },
             {
-              "text": "不去者有毒去而患猶存者俱收其全功則良醫",
+              "text": "不去者有毒去而患猶存者俱収其全功則良醫",
               "marks": [
                 {
                   "after": 1,
@@ -1231,7 +1235,8 @@
           "note": "末字左旁可辨言形，暫錄譔"
         }
       ],
-      "observations": "右葉為序文末，紀年與署名分欄，署名欄『門人』『山內』間有空段。左葉起本文，九格欄。本文始見左右細墨讀點與訓點；僅錄可定位者。"
+      "observations": "右葉為序文末，紀年與署名分欄，署名欄『門人』『山內』間有空段。左葉起本文，九格欄。本文始見左右細墨讀點與訓點；僅錄可定位者。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 6,
@@ -1248,7 +1253,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -1341,7 +1346,7 @@
               "notes": []
             },
             {
-              "text": "治之為術上古專用外治後世漸用內治今也內外",
+              "text": "治之為術上古專用外治後世漸用内治今也内外",
               "marks": [
                 {
                   "after": 3,
@@ -1459,7 +1464,7 @@
               "notes": []
             },
             {
-              "text": "古昔治疾病率由外中古而還雖用內治猶且以",
+              "text": "古昔治疾病率由外中古而還雖用内治猶且以",
               "marks": [
                 {
                   "after": 3,
@@ -1510,7 +1515,7 @@
               "notes": []
             },
             {
-              "text": "外為主今也反之由內者以方藥為主由外者以",
+              "text": "外為主今也反之由内者以方藥為主由外者以",
               "marks": [
                 {
                   "after": 2,
@@ -1787,7 +1792,7 @@
               "notes": []
             },
             {
-              "text": "觀察之法即診候之事也驅除之術即內外之治",
+              "text": "觀察之法即診候之事也驅除之術即内外之治",
               "marks": [
                 {
                   "after": 10,
@@ -1839,7 +1844,7 @@
               "notes": []
             },
             {
-              "text": "諸術追世而益多端紛然錯雜大生疑惑沙之汰",
+              "text": "諸術追世而益多端紛紜錯雜大生疑惑沙之汰",
               "marks": [
                 {
                   "after": 3,
@@ -1896,7 +1901,8 @@
           "note": "『案』上部細筆有透背，首錄保留疑讀"
         }
       ],
-      "observations": "雙葉各九欄。可見墨圈與墨書返點。"
+      "observations": "雙葉各九欄。可見墨圈與墨書返點。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 7,
@@ -1913,7 +1919,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -2119,7 +2125,7 @@
               "notes": []
             },
             {
-              "text": "命故不至誠之履則反生怨恨可不謹焉哉",
+              "text": "命故不至誠之履則又生怨恨可不謹焉哉",
               "marks": [
                 {
                   "after": 1,
@@ -2425,7 +2431,7 @@
               "notes": []
             },
             {
-              "text": "實有之者寫也故或問之或忖度之鉤隱入密者",
+              "text": "實有之者寫也故或問之或忖度之鈎隱入密者",
               "marks": [
                 {
                   "after": 2,
@@ -2586,7 +2592,8 @@
           "note": "與左葉第5欄『寫也』同形，上部宀，下有墨點"
         }
       ],
-      "observations": "雙葉各九欄。右葉第7–9欄為第一章結語，另起縮排。"
+      "observations": "雙葉各九欄。右葉第7–9欄為第一章結語，另起縮排。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 8,
@@ -2603,7 +2610,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -3022,7 +3029,7 @@
               "notes": []
             },
             {
-              "text": "地凡百疾病盡不出於此□圍也",
+              "text": "地凡百疾病盡不出於此圏圍也",
               "marks": [
                 {
                   "after": 1,
@@ -3170,7 +3177,7 @@
               "notes": []
             },
             {
-              "text": "氣將盡也此二者無出他故為極地",
+              "text": "氣將盡也此二者無出廼故為極地",
               "marks": [
                 {
                   "after": 2,
@@ -3247,7 +3254,7 @@
               "notes": []
             },
             {
-              "text": "耳蓋氣也者與太虛之氣呼應液偕之行也液有三",
+              "text": "耳蓋氣也者與太虚之氣呼應液偕之行也液有三",
               "marks": [
                 {
                   "after": 1,
@@ -3438,7 +3445,8 @@
           "note": "筆跡左旁有細直斜筆，暫取偕"
         }
       ],
-      "observations": "雙葉各九欄。可見墨圈與訓點，訓點初錄依能對應的字位。"
+      "observations": "雙葉各九欄。可見墨圈與訓點，訓點初錄依能對應的字位。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 9,
@@ -3455,13 +3463,13 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "人之身體以三液而成故其發乎形證亦皆□焉",
+              "text": "人之身體以三液而成故其發乎形證亦皆蹊焉",
               "marks": [
                 {
                   "after": 4,
@@ -3606,7 +3614,7 @@
               "notes": []
             },
             {
-              "text": "上古之人無有宿毒矣其有疾病唯隨氣化之變耳",
+              "text": "上古之人無有宿毒矣其有疾病唯罹氣化之變耳",
               "marks": [
                 {
                   "after": 4,
@@ -3825,7 +3833,7 @@
               "notes": []
             },
             {
-              "text": "澀滯也今夫長沙氏之所傳唯主七劑服飲此中古",
+              "text": "澁滯也今夫長沙氏之所傳唯主七劑服飲此中古",
               "marks": [
                 {
                   "after": 3,
@@ -3892,7 +3900,7 @@
               "notes": []
             },
             {
-              "text": "人淳朴則血氣無所淡滯故其有疾病亦自易去",
+              "text": "人淳朴則血氣無所澁滯故其有疾病亦自易去",
               "marks": [
                 {
                   "after": 7,
@@ -3974,7 +3982,7 @@
               "notes": []
             },
             {
-              "text": "按扤以通血脈則無不治者若夫汚滯之甚則鍼",
+              "text": "按抗以通血脈則無不治者若夫汚滯之甚則鍼",
               "marks": [
                 {
                   "after": 4,
@@ -4041,7 +4049,7 @@
               "notes": []
             },
             {
-              "text": "通滯着者此上古之道也雖今之世其人淳素其疾",
+              "text": "通滯着此上古之道也雖今之世其人淳素其疾",
               "marks": [
                 {
                   "after": 3,
@@ -4049,12 +4057,7 @@
                   "color": "black"
                 },
                 {
-                  "after": 4,
-                  "mark": "○",
-                  "color": "black"
-                },
-                {
-                  "after": 10,
+                  "after": 9,
                   "mark": "○",
                   "color": "black"
                 }
@@ -4117,9 +4120,17 @@
             "按抏"
           ],
           "note": "次字左旁可見，右上右下靠近欄線"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "通滯着此上古之道也雖今之世其人淳素其疾",
+          "candidates": [],
+          "note": "改字後部分原筆讀點或細注錨點待重新定位，初錄位置保存在覆核紀錄中。"
         }
       ],
-      "observations": "雙葉各九欄。第1欄『故』旁有較粗墨痕。返點為可定位者初錄。"
+      "observations": "雙葉各九欄。第1欄『故』旁有較粗墨痕。返點為可定位者初錄。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 10,
@@ -4136,7 +4147,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -4193,7 +4204,7 @@
               "notes": []
             },
             {
-              "text": "視如芻狗哉若夫宿毒醸於內而疾病發於外則",
+              "text": "視如芻狗哉若夫宿毒醸於内而疾病發於外則",
               "marks": [
                 {
                   "after": 1,
@@ -4249,7 +4260,7 @@
               "notes": []
             },
             {
-              "text": "非內服毒藥決不治矣故必採擇藥物以供其用",
+              "text": "非内服毒藥決不治矣故必採擇藥物以供其用",
               "marks": [
                 {
                   "after": 1,
@@ -4438,7 +4449,7 @@
               "notes": []
             },
             {
-              "text": "當今治疾也專從中世之道湯液以蕩滌諸液丸散",
+              "text": "當今治疾也專從中世之道湯液以盪滌諸液丸散",
               "marks": [
                 {
                   "after": 3,
@@ -4796,7 +4807,7 @@
               "notes": []
             },
             {
-              "text": "眞得古人之意者也",
+              "text": "真得古人之意者也",
               "marks": [
                 {
                   "after": 2,
@@ -4812,7 +4823,7 @@
               "notes": []
             },
             {
-              "text": "今也雖主用內服然外施亦不必廢之夫外施有按",
+              "text": "今也雖主用内服然外施亦不必廢之夫外施有按",
               "marks": [
                 {
                   "after": 3,
@@ -4858,7 +4869,7 @@
               "notes": []
             },
             {
-              "text": "扤毒熨灌治之術鍼刺灸烙薰蒸之法內服有湯液",
+              "text": "抗毒熨灌治之術鍼刺灸烙薰蒸之法内服有湯液",
               "marks": [
                 {
                   "after": 1,
@@ -4930,7 +4941,8 @@
           "note": "續前欄『按』；右旁細末筆與第09幅所見皆待核"
         }
       ],
-      "observations": "雙葉各九欄。右葉第3欄首前一橫斜粗筆與正文交近。"
+      "observations": "雙葉各九欄。右葉第3欄首前一橫斜粗筆與正文交近。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 11,
@@ -4947,7 +4959,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -4994,7 +5006,7 @@
               "notes": []
             },
             {
-              "text": "今也人之為道有仁有義治病之法雖多端亦不出",
+              "text": "人也人之為道有仁有義治病之法雖多端亦不出",
               "marks": [
                 {
                   "after": 2,
@@ -5071,7 +5083,7 @@
               "notes": []
             },
             {
-              "text": "外施之術內服之法雖各異其宜所以行之之要",
+              "text": "外施之術内服之法雖各異其宜所以行之之要",
               "marks": [
                 {
                   "after": 4,
@@ -5409,7 +5421,7 @@
               "notes": []
             },
             {
-              "text": "為病在血為變然亦有過不及之異乳之嬰兒則頗",
+              "text": "為病在血為變然亦有過不及之異况之嬰兒則頗",
               "marks": [
                 {
                   "after": 1,
@@ -5506,7 +5518,7 @@
               "notes": []
             },
             {
-              "text": "為變比之婦女更又加難故曰十兒易而一女難十",
+              "text": "為憂比之婦女更又加難故曰十兒易而一女難十",
               "marks": [
                 {
                   "after": 1,
@@ -5740,7 +5752,8 @@
           "note": "最前細筆略淡，字形見乳形"
         }
       ],
-      "observations": "雙葉各九欄。左葉第7欄『一男難』之後同欄雙行細注。右葉第2欄『今也』上有污痕。"
+      "observations": "雙葉各九欄。左葉第7欄『一男難』之後同欄雙行細注。右葉第2欄『今也』上有污痕。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 12,
@@ -5757,7 +5770,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -5948,7 +5961,7 @@
               "notes": []
             },
             {
-              "text": "心思安穩故市井之民有疾病則病毒固著而藥力",
+              "text": "心思安穩故市井之民有疾病則病毒固着而藥力",
               "marks": [
                 {
                   "after": 10,
@@ -6175,7 +6188,7 @@
               "notes": []
             },
             {
-              "text": "民比近世遠阪之人比上古此風土之別爾又身體",
+              "text": "民比近世遠陬之人比上古此風土之別爾又身體",
               "marks": [
                 {
                   "after": 1,
@@ -6319,7 +6332,7 @@
               "notes": []
             },
             {
-              "text": "之滑澀疾徐皆從氣為變故必問其風土且夫富",
+              "text": "之滑澁疾徐皆從氣為變故必問其風土且夫富",
               "marks": [
                 {
                   "after": 7,
@@ -6391,7 +6404,8 @@
           "note": "第七字框內小筆含交形，暫照爾，仍待比字"
         }
       ],
-      "observations": "雙葉各九欄。墨圈與返點依可定位者初錄。"
+      "observations": "雙葉各九欄。墨圈與返點依可定位者初錄。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 13,
@@ -6408,7 +6422,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -6544,7 +6558,7 @@
               "notes": []
             },
             {
-              "text": "着則同氣必會湊以成形凡草木禽獸以至金石鹵",
+              "text": "者則同氣必會湊以成形凡草木禽獸以至金石鹵",
               "marks": [
                 {
                   "after": 1,
@@ -7063,7 +7077,8 @@
           "note": "『養』的上方細橫及下部皆可見，首錄依所見"
         }
       ],
-      "observations": "雙葉各九欄。第4章結語在右葉第3欄。"
+      "observations": "雙葉各九欄。第4章結語在右葉第3欄。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 14,
@@ -7080,7 +7095,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -7705,7 +7720,7 @@
               "notes": []
             },
             {
-              "text": "則不能的知也然則醫之為事與賤隸工職何擇",
+              "text": "則不能的知也然則醫之為事與賤隷工職何擇",
               "marks": [
                 {
                   "after": 3,
@@ -7855,7 +7870,8 @@
           "note": "『浮』右下子形可辨，『妄』由上亡下女構成"
         }
       ],
-      "observations": "雙葉各九欄。正文引申藥方、品物與學醫論說。"
+      "observations": "雙葉各九欄。正文引申藥方、品物與學醫論說。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 15,
@@ -7872,7 +7888,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -8374,7 +8390,7 @@
               "notes": []
             },
             {
-              "text": "故合和之咸有妙用而存焉凡病發見於外者隨發",
+              "text": "故合和之成有妙用而存焉凡病發見於外者隨發",
               "marks": [
                 {
                   "after": 3,
@@ -8420,7 +8436,7 @@
               "notes": []
             },
             {
-              "text": "動而制之伏結於內者應伏匿而滅之此方劑之所",
+              "text": "動而制之伏結於内者應伏匿而滅之此方劑之所",
               "marks": [
                 {
                   "after": 3,
@@ -8667,7 +8683,8 @@
           "note": "下字上部戶攵連筆，下有糸形，按原形取綮"
         }
       ],
-      "observations": "雙葉各九欄。雙葉都有墨圈與墨書返點。第8欄讀點中近上下位的小字筆形待核。"
+      "observations": "雙葉各九欄。雙葉都有墨圈與墨書返點。第8欄讀點中近上下位的小字筆形待核。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 16,
@@ -8684,7 +8701,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -8772,7 +8789,7 @@
               "notes": []
             },
             {
-              "text": "所用雖幸有雜病論存竟屬殘缺故試之事間有所",
+              "text": "所用雖幸有雜病論存竟属殘缺故試之事間有所",
               "marks": [
                 {
                   "after": 1,
@@ -9027,7 +9044,7 @@
               "notes": []
             },
             {
-              "text": "今歷覽群籍唐宋猶偶有存古方者本邦亦幸有",
+              "text": "今歴覽群籍唐宋猶偶有存古方者本邦亦幸有",
               "marks": [
                 {
                   "after": 3,
@@ -9495,7 +9512,8 @@
           "note": "欄內墨字僅『義』；其下斜長黑筆傍書口，未見可辨另字"
         }
       ],
-      "observations": "雙葉各九欄。第五章結語在左葉第5–8欄。書口下方頁次與相鄰影像接續。"
+      "observations": "雙葉各九欄。第五章結語在左葉第5–8欄。書口下方頁次與相鄰影像接續。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 17,
@@ -9512,7 +9530,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -9674,7 +9692,7 @@
               ]
             },
             {
-              "text": "毒之品決不得效然服大毒者人之所甚恐怖故古",
+              "text": "毒之品決不得効然服大毒者人之所甚恐怖故古",
               "notes": [],
               "marks": [
                 {
@@ -9844,7 +9862,8 @@
           "note": "末寫形細，令、今待核。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 18,
@@ -9861,7 +9880,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -9878,7 +9897,7 @@
               ]
             },
             {
-              "text": "當今之病宿毒居十之八而盤結堅牢不可容易解故",
+              "text": "當今之病宿毒居十之八而盤結堅牢不可容解故",
               "notes": [],
               "marks": [
                 {
@@ -9887,7 +9906,7 @@
                   "color": "black"
                 },
                 {
-                  "after": 20,
+                  "after": 19,
                   "mark": "○",
                   "color": "black"
                 }
@@ -10181,7 +10200,7 @@
               "marks": []
             },
             {
-              "text": "凡為治者唯在精氣不缺者而能收全功矣精氣有",
+              "text": "凡為治者唯在精氣不缺者而能収全功矣精氣有",
               "notes": [],
               "marks": [
                 {
@@ -10224,7 +10243,8 @@
           "note": "連續行中的易字須以字畫再核。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 19,
@@ -10241,7 +10261,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -10559,7 +10579,7 @@
               ]
             },
             {
-              "text": "其將自治之機而後製焉此從自然之道也如是",
+              "text": "其將自治之機而後發焉此從自然之道也如是",
               "notes": [],
               "marks": [
                 {
@@ -10629,7 +10649,8 @@
           "note": "「致」上見乍形。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 20,
@@ -10646,7 +10667,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -10668,7 +10689,7 @@
               ]
             },
             {
-              "text": "也精氣畏縮而病毒益乘之也如是者姑置病毒而",
+              "text": "也精氣畏縮而病毒益乗之也如是者姑置病毒而",
               "notes": [],
               "marks": [
                 {
@@ -10794,7 +10815,7 @@
               ]
             },
             {
-              "text": "凡疾病得治者以精氣自逐毒故遂排斥之也毒",
+              "text": "凡疾病將治者以精氣自逐毒故遂排斥之也毒",
               "notes": [],
               "marks": [
                 {
@@ -11050,7 +11071,8 @@
           "note": "奈／柰左右字樣須再核。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 21,
@@ -11067,7 +11089,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -11409,7 +11431,8 @@
           "note": "原形未見三點水，先保存寫。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 22,
@@ -11426,7 +11449,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -11787,7 +11810,8 @@
           "note": "竪線間筆畫需回核。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 23,
@@ -11804,7 +11828,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -12019,7 +12043,7 @@
               ]
             },
             {
-              "text": "藥劑以他術為輔翼內外相俳以為全治因揭其要",
+              "text": "藥劑以他術為輔翼內外相併以為全治因揭其要",
               "notes": [],
               "marks": [
                 {
@@ -12181,7 +12205,8 @@
           "note": "末字右件有細畫。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 24,
@@ -12198,7 +12223,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -12369,7 +12394,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "貨財人皆忍為之其或雖更增痛苦猶不辭之語云",
+              "text": "貨財人皆忍為之其或雖更増痛苦猶不辭之語云",
               "notes": [],
               "marks": [
                 {
@@ -12447,7 +12472,7 @@
               ]
             },
             {
-              "text": "一則久而成效一則不日有効人必取其不日曰一",
+              "text": "一則久而成効一則不日有効人必取其不日曰一",
               "notes": [],
               "marks": [
                 {
@@ -12597,7 +12622,8 @@
           "note": "跨欄重見「不」；原位保存，待第二讀確認。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 25,
@@ -12614,7 +12640,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -13017,7 +13043,8 @@
           "note": "為／之草形需覆核。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 26,
@@ -13034,7 +13061,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -13074,7 +13101,7 @@
               ]
             },
             {
-              "text": "亦復然欲取前所施以得效於今必不能也何也以",
+              "text": "亦復然欲取前所施以得効於今必不能也何也以",
               "notes": [],
               "marks": [
                 {
@@ -13433,7 +13460,8 @@
         }
       ],
       "issues": [],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 27,
@@ -13450,7 +13478,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -13848,7 +13876,8 @@
           "note": "左右細筆未定，暫存徽形。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 28,
@@ -13865,7 +13894,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -14278,7 +14307,8 @@
           "note": "扌與木相近，暫按左件較窄的搆錄。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 29,
@@ -14295,7 +14325,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -14348,7 +14378,7 @@
               ]
             },
             {
-              "text": "之未不得不生弊也何也奉守者遂將忘自然之體",
+              "text": "之末不得不生弊也何也奉守者遂將忘自然之體",
               "notes": [],
               "marks": [
                 {
@@ -14697,7 +14727,8 @@
           "note": "字下有點及長折，待覆核。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 30,
@@ -14714,7 +14745,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -15001,7 +15032,8 @@
           "note": "小字位於兩直行，覆核聲符。"
         }
       ],
-      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。"
+      "observations": "左右各九欄，含墨色圈點及密集訓點。圈點為初步定位，返點與小假名保留於影像待逐處回校。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 31,
@@ -15018,7 +15050,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "afterword",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -15164,7 +15196,8 @@
           "note": "筆跡連寫，留原圖覆核。"
         }
       ],
-      "observations": "右面正文框空白。左面跋從右起七個有字欄，較正文疏，篇名另列。"
+      "observations": "右面正文框空白。左面跋從右起七個有字欄，較正文疏，篇名另列。",
+      "adjudication": "initial-retained"
     },
     {
       "image": 32,
@@ -15181,7 +15214,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "afterword",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "right",
@@ -15203,7 +15236,7 @@
               ]
             },
             {
-              "text": "建後世子弟學醫者之標準爾",
+              "text": "建後世子弟學醫者之標準甬",
               "notes": [],
               "marks": []
             },
@@ -15245,7 +15278,8 @@
           "note": "見廴旁，保留候選。"
         }
       ],
-      "observations": "右面跋末署文政丙戌仲秋望日（1826）和平安中川故其德。左面為內後封，未見可錄字。"
+      "observations": "右面跋末署文政丙戌仲秋望日（1826）和平安中川故其德。左面為內後封，未見可錄字。",
+      "adjudication": "addressed-loci"
     },
     {
       "image": 33,
@@ -15262,7 +15296,7 @@
       "native_width": 3072,
       "native_height": 2048,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independently-reread",
       "sides": [
         {
           "side": "single",
@@ -15271,7 +15305,8 @@
         }
       ],
       "issues": [],
-      "observations": "青綠後封，未見可轉錄的文字。"
+      "observations": "青綠後封，未見可轉錄的文字。",
+      "adjudication": "initial-retained"
     }
   ]
 }

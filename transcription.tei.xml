@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -221,7 +221,7 @@
             <ab type="page-feature" subtype="seal">
               <label>上方偏左黑色橢圓登錄戳</label>
               <seg type="diplomatic-text" rend="black">183645
-昭□.3.31</seg>
+大正7.3.31</seg>
             </ab>
             <ab type="page-feature" subtype="seal">
               <label>頁頂靠內朱篆方印</label>
@@ -271,7 +271,7 @@
               <note type="original-mark" n="11" rend="black">○</note>
             </ab>
             <ab type="column" n="2" xml:id="f03-r-c02">
-              <seg type="diplomatic-text">扁鵲傳足以觀其蹟矣然其法不可憲</seg>
+              <seg type="diplomatic-text">扁鵲傳足以觀其蹟矣然其法不可忘</seg>
               <note type="original-mark" n="3" rend="black">○</note>
             </ab>
             <ab type="column" n="3" xml:id="f03-r-c03">
@@ -308,7 +308,7 @@
               <note type="original-mark" n="13" rend="black">○</note>
             </ab>
             <ab type="column" n="3" xml:id="f03-l-c03">
-              <seg type="diplomatic-text">唱長沙之法海內靡然嚮風然其學未</seg>
+              <seg type="diplomatic-text">唱長沙之法海内靡然嚮風然其學未</seg>
               <note type="original-mark" n="5" rend="black">○</note>
               <note type="original-mark" n="11" rend="black">○</note>
             </ab>
@@ -358,7 +358,7 @@
               <note type="original-mark" n="13" rend="black">○</note>
             </ab>
             <ab type="column" n="3" xml:id="f04-r-c03">
-              <seg type="diplomatic-text">之方苟可補其遺缺者□收而不置日</seg>
+              <seg type="diplomatic-text">之方苟可補其遺缺者無収而不置日</seg>
               <note type="original-mark" n="2" rend="black">○</note>
               <note type="original-mark" n="14" rend="black">○</note>
             </ab>
@@ -457,7 +457,7 @@
               <seg type="diplomatic-text" />
             </ab>
             <ab type="column" n="6" xml:id="f05-r-c06">
-              <seg type="diplomatic-text">門人山內休美謹譔</seg>
+              <seg type="diplomatic-text">門人山内休美謹譔</seg>
             </ab>
             <ab type="column" n="7" xml:id="f05-r-c07">
               <seg type="diplomatic-text" />
@@ -507,7 +507,7 @@
               <note type="original-mark" n="17" rend="black">レ</note>
             </ab>
             <ab type="column" n="5" xml:id="f05-l-c05">
-              <seg type="diplomatic-text">不去者有毒去而患猶存者俱收其全功則良醫</seg>
+              <seg type="diplomatic-text">不去者有毒去而患猶存者俱収其全功則良醫</seg>
               <note type="original-mark" n="1" rend="black">レ</note>
               <note type="original-mark" n="3" rend="black">○</note>
               <note type="original-mark" n="4" rend="black">レ</note>
@@ -600,7 +600,7 @@
               <note type="original-mark" n="9" rend="black">一</note>
             </ab>
             <ab type="column" n="3" xml:id="f06-r-c03">
-              <seg type="diplomatic-text">治之為術上古專用外治後世漸用內治今也內外</seg>
+              <seg type="diplomatic-text">治之為術上古專用外治後世漸用内治今也内外</seg>
               <note type="original-mark" n="3" rend="black">レ</note>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="8" rend="black">二</note>
@@ -631,7 +631,7 @@
               <seg type="diplomatic-text">病毒而已</seg>
             </ab>
             <ab type="column" n="7" xml:id="f06-r-c07">
-              <seg type="diplomatic-text">古昔治疾病率由外中古而還雖用內治猶且以</seg>
+              <seg type="diplomatic-text">古昔治疾病率由外中古而還雖用内治猶且以</seg>
               <note type="original-mark" n="3" rend="black">二</note>
               <note type="original-mark" n="5" rend="black">一</note>
               <note type="original-mark" n="5" rend="black">○</note>
@@ -643,7 +643,7 @@
               <note type="original-mark" n="16" rend="black">○</note>
             </ab>
             <ab type="column" n="8" xml:id="f06-r-c08">
-              <seg type="diplomatic-text">外為主今也反之由內者以方藥為主由外者以</seg>
+              <seg type="diplomatic-text">外為主今也反之由内者以方藥為主由外者以</seg>
               <note type="original-mark" n="2" rend="black">レ</note>
               <note type="original-mark" n="6" rend="black">レ</note>
               <note type="original-mark" n="7" rend="black">○</note>
@@ -719,7 +719,7 @@
               <note type="original-mark" n="18" rend="black">レ</note>
             </ab>
             <ab type="column" n="7" xml:id="f06-l-c07">
-              <seg type="diplomatic-text">觀察之法即診候之事也驅除之術即內外之治</seg>
+              <seg type="diplomatic-text">觀察之法即診候之事也驅除之術即内外之治</seg>
               <note type="original-mark" n="10" rend="black">○</note>
             </ab>
             <ab type="column" n="8" xml:id="f06-l-c08">
@@ -733,7 +733,7 @@
               <note type="original-mark" n="17" rend="black">一</note>
             </ab>
             <ab type="column" n="9" xml:id="f06-l-c09">
-              <seg type="diplomatic-text">諸術追世而益多端紛然錯雜大生疑惑沙之汰</seg>
+              <seg type="diplomatic-text">諸術追世而益多端紛紜錯雜大生疑惑沙之汰</seg>
               <note type="original-mark" n="3" rend="black">レ</note>
               <note type="original-mark" n="14" rend="black">二</note>
               <note type="original-mark" n="16" rend="black">一</note>
@@ -814,7 +814,7 @@
               <note type="original-mark" n="18" rend="black">二</note>
             </ab>
             <ab type="column" n="6" xml:id="f07-r-c06">
-              <seg type="diplomatic-text">命故不至誠之履則反生怨恨可不謹焉哉</seg>
+              <seg type="diplomatic-text">命故不至誠之履則又生怨恨可不謹焉哉</seg>
               <note type="original-mark" n="1" rend="black">一</note>
               <note type="original-mark" n="3" rend="black">二</note>
               <note type="original-mark" n="7" rend="black">一</note>
@@ -896,7 +896,7 @@
               <note type="original-mark" n="18" rend="black">二</note>
             </ab>
             <ab type="column" n="5" xml:id="f07-l-c05">
-              <seg type="diplomatic-text">實有之者寫也故或問之或忖度之鉤隱入密者</seg>
+              <seg type="diplomatic-text">實有之者寫也故或問之或忖度之鈎隱入密者</seg>
               <note type="original-mark" n="2" rend="black">レ</note>
               <note type="original-mark" n="4" rend="black">一</note>
               <note type="original-mark" n="6" rend="black">○</note>
@@ -1050,7 +1050,7 @@
               <note type="original-mark" n="19" rend="black">二</note>
             </ab>
             <ab type="column" n="9" xml:id="f08-r-c09">
-              <seg type="diplomatic-text">地凡百疾病盡不出於此□圍也</seg>
+              <seg type="diplomatic-text">地凡百疾病盡不出於此圏圍也</seg>
               <note type="original-mark" n="1" rend="black">一</note>
               <note type="original-mark" n="1" rend="black">○</note>
               <note type="original-mark" n="5" rend="black">○</note>
@@ -1093,7 +1093,7 @@
               <note type="original-mark" n="18" rend="black">○</note>
             </ab>
             <ab type="column" n="4" xml:id="f08-l-c04">
-              <seg type="diplomatic-text">氣將盡也此二者無出他故為極地</seg>
+              <seg type="diplomatic-text">氣將盡也此二者無出廼故為極地</seg>
               <note type="original-mark" n="2" rend="black">レ</note>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="8" rend="black">二</note>
@@ -1112,7 +1112,7 @@
               <note type="original-mark" n="19" rend="black">レ</note>
             </ab>
             <ab type="column" n="6" xml:id="f08-l-c06">
-              <seg type="diplomatic-text">耳蓋氣也者與太虛之氣呼應液偕之行也液有三</seg>
+              <seg type="diplomatic-text">耳蓋氣也者與太虚之氣呼應液偕之行也液有三</seg>
               <note type="original-mark" n="1" rend="black">○</note>
               <note type="original-mark" n="6" rend="black">二</note>
               <note type="original-mark" n="10" rend="black">一</note>
@@ -1177,7 +1177,7 @@
         <div n="9" type="scan" subtype="author-text">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f09-r-c01">
-              <seg type="diplomatic-text">人之身體以三液而成故其發乎形證亦皆□焉</seg>
+              <seg type="diplomatic-text">人之身體以三液而成故其發乎形證亦皆蹊焉</seg>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="5" rend="black">二</note>
               <note type="original-mark" n="7" rend="black">一</note>
@@ -1217,7 +1217,7 @@
               <seg type="diplomatic-text">是乎診察之能事畢矣</seg>
             </ab>
             <ab type="column" n="7" xml:id="f09-r-c07">
-              <seg type="diplomatic-text">上古之人無有宿毒矣其有疾病唯隨氣化之變耳</seg>
+              <seg type="diplomatic-text">上古之人無有宿毒矣其有疾病唯罹氣化之變耳</seg>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="5" rend="black">二</note>
               <note type="original-mark" n="6" rend="black">二</note>
@@ -1276,7 +1276,7 @@
               <note type="original-mark" n="17" rend="black">○</note>
             </ab>
             <ab type="column" n="3" xml:id="f09-l-c03">
-              <seg type="diplomatic-text">澀滯也今夫長沙氏之所傳唯主七劑服飲此中古</seg>
+              <seg type="diplomatic-text">澁滯也今夫長沙氏之所傳唯主七劑服飲此中古</seg>
               <note type="original-mark" n="3" rend="black">○</note>
               <note type="original-mark" n="10" rend="black">レ</note>
               <note type="original-mark" n="13" rend="black">二</note>
@@ -1293,7 +1293,7 @@
               <note type="original-mark" n="16" rend="black">一</note>
             </ab>
             <ab type="column" n="5" xml:id="f09-l-c05">
-              <seg type="diplomatic-text">人淳朴則血氣無所淡滯故其有疾病亦自易去</seg>
+              <seg type="diplomatic-text">人淳朴則血氣無所澁滯故其有疾病亦自易去</seg>
               <note type="original-mark" n="7" rend="black">二</note>
               <note type="original-mark" n="8" rend="black">レ</note>
               <note type="original-mark" n="10" rend="black">一</note>
@@ -1313,7 +1313,7 @@
               <note type="original-mark" n="17" rend="black">○</note>
             </ab>
             <ab type="column" n="7" xml:id="f09-l-c07">
-              <seg type="diplomatic-text">按扤以通血脈則無不治者若夫汚滯之甚則鍼</seg>
+              <seg type="diplomatic-text">按抗以通血脈則無不治者若夫汚滯之甚則鍼</seg>
               <note type="original-mark" n="4" rend="black">二</note>
               <note type="original-mark" n="6" rend="black">一</note>
               <note type="original-mark" n="8" rend="black">二</note>
@@ -1330,10 +1330,9 @@
               <note type="original-mark" n="17" rend="black">二</note>
             </ab>
             <ab type="column" n="9" xml:id="f09-l-c09">
-              <seg type="diplomatic-text">通滯着者此上古之道也雖今之世其人淳素其疾</seg>
+              <seg type="diplomatic-text">通滯着此上古之道也雖今之世其人淳素其疾</seg>
               <note type="original-mark" n="3" rend="black">一</note>
-              <note type="original-mark" n="4" rend="black">○</note>
-              <note type="original-mark" n="10" rend="black">○</note>
+              <note type="original-mark" n="9" rend="black">○</note>
             </ab>
             <ab type="page-feature" subtype="running-text">
               <label>左葉外書口魚尾下</label>
@@ -1369,6 +1368,10 @@
               <seg type="candidate">按抏</seg>
               <note type="editorial">次字左旁可見，右上右下靠近欄線</note>
             </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>通滯着此上古之道也雖今之世其人淳素其疾</quote>
+              <note type="editorial">改字後部分原筆讀點或細注錨點待重新定位，初錄位置保存在覆核紀錄中。</note>
+            </ab>
           </div>
         </div>
         <pb n="10" facs="#f10" />
@@ -1387,7 +1390,7 @@
               <note type="original-mark" n="18" rend="black">○</note>
             </ab>
             <ab type="column" n="2" xml:id="f10-r-c02">
-              <seg type="diplomatic-text">視如芻狗哉若夫宿毒醸於內而疾病發於外則</seg>
+              <seg type="diplomatic-text">視如芻狗哉若夫宿毒醸於内而疾病發於外則</seg>
               <note type="original-mark" n="1" rend="black">二</note>
               <note type="original-mark" n="2" rend="black">二</note>
               <note type="original-mark" n="4" rend="black">一</note>
@@ -1400,7 +1403,7 @@
               <note type="original-mark" n="18" rend="black">○</note>
             </ab>
             <ab type="column" n="3" xml:id="f10-r-c03">
-              <seg type="diplomatic-text">非內服毒藥決不治矣故必採擇藥物以供其用</seg>
+              <seg type="diplomatic-text">非内服毒藥決不治矣故必採擇藥物以供其用</seg>
               <note type="original-mark" n="1" rend="black">二</note>
               <note type="original-mark" n="5" rend="black">一</note>
               <note type="original-mark" n="7" rend="black">レ</note>
@@ -1445,7 +1448,7 @@
               <note type="original-mark" n="9" rend="black">一</note>
             </ab>
             <ab type="column" n="7" xml:id="f10-r-c07">
-              <seg type="diplomatic-text">當今治疾也專從中世之道湯液以蕩滌諸液丸散</seg>
+              <seg type="diplomatic-text">當今治疾也專從中世之道湯液以盪滌諸液丸散</seg>
               <note type="original-mark" n="3" rend="black">レ</note>
               <note type="original-mark" n="5" rend="black">○</note>
               <note type="original-mark" n="7" rend="black">二</note>
@@ -1539,12 +1542,12 @@
               <note type="original-mark" n="17" rend="black">一</note>
             </ab>
             <ab type="column" n="7" xml:id="f10-l-c07">
-              <seg type="diplomatic-text">眞得古人之意者也</seg>
+              <seg type="diplomatic-text">真得古人之意者也</seg>
               <note type="original-mark" n="2" rend="black">二</note>
               <note type="original-mark" n="6" rend="black">一</note>
             </ab>
             <ab type="column" n="8" xml:id="f10-l-c08">
-              <seg type="diplomatic-text">今也雖主用內服然外施亦不必廢之夫外施有按</seg>
+              <seg type="diplomatic-text">今也雖主用内服然外施亦不必廢之夫外施有按</seg>
               <note type="original-mark" n="3" rend="black">二</note>
               <note type="original-mark" n="5" rend="black">二</note>
               <note type="original-mark" n="7" rend="black">一</note>
@@ -1555,7 +1558,7 @@
               <note type="original-mark" n="19" rend="black">レ</note>
             </ab>
             <ab type="column" n="9" xml:id="f10-l-c09">
-              <seg type="diplomatic-text">扤毒熨灌治之術鍼刺灸烙薰蒸之法內服有湯液</seg>
+              <seg type="diplomatic-text">抗毒熨灌治之術鍼刺灸烙薰蒸之法内服有湯液</seg>
               <note type="original-mark" n="1" rend="black">○</note>
               <note type="original-mark" n="7" rend="black">○</note>
               <note type="original-mark" n="15" rend="black">○</note>
@@ -1604,7 +1607,7 @@
               <note type="original-mark" n="18" rend="black">レ</note>
             </ab>
             <ab type="column" n="2" xml:id="f11-r-c02">
-              <seg type="diplomatic-text">今也人之為道有仁有義治病之法雖多端亦不出</seg>
+              <seg type="diplomatic-text">人也人之為道有仁有義治病之法雖多端亦不出</seg>
               <note type="original-mark" n="2" rend="black">○</note>
               <note type="original-mark" n="5" rend="black">レ</note>
               <note type="original-mark" n="6" rend="black">○</note>
@@ -1623,7 +1626,7 @@
               <note type="original-mark" n="15" rend="black">一</note>
             </ab>
             <ab type="column" n="4" xml:id="f11-r-c04">
-              <seg type="diplomatic-text">外施之術內服之法雖各異其宜所以行之之要</seg>
+              <seg type="diplomatic-text">外施之術内服之法雖各異其宜所以行之之要</seg>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="8" rend="black">○</note>
               <note type="original-mark" n="9" rend="black">二</note>
@@ -1713,7 +1716,7 @@
               <note type="original-mark" n="18" rend="black">○</note>
             </ab>
             <ab type="column" n="4" xml:id="f11-l-c04">
-              <seg type="diplomatic-text">為病在血為變然亦有過不及之異乳之嬰兒則頗</seg>
+              <seg type="diplomatic-text">為病在血為變然亦有過不及之異况之嬰兒則頗</seg>
               <note type="original-mark" n="1" rend="black">レ</note>
               <note type="original-mark" n="2" rend="black">○</note>
               <note type="original-mark" n="3" rend="black">レ</note>
@@ -1736,7 +1739,7 @@
               <note type="original-mark" n="16" rend="black">○</note>
             </ab>
             <ab type="column" n="6" xml:id="f11-l-c06">
-              <seg type="diplomatic-text">為變比之婦女更又加難故曰十兒易而一女難十</seg>
+              <seg type="diplomatic-text">為憂比之婦女更又加難故曰十兒易而一女難十</seg>
               <note type="original-mark" n="1" rend="black">レ</note>
               <note type="original-mark" n="2" rend="black">○</note>
               <note type="original-mark" n="3" rend="black">二</note>
@@ -1856,7 +1859,7 @@
               <note type="original-mark" n="10" rend="black">○</note>
             </ab>
             <ab type="column" n="6" xml:id="f12-r-c06">
-              <seg type="diplomatic-text">心思安穩故市井之民有疾病則病毒固著而藥力</seg>
+              <seg type="diplomatic-text">心思安穩故市井之民有疾病則病毒固着而藥力</seg>
               <note type="original-mark" n="10" rend="black">二</note>
               <note type="original-mark" n="12" rend="black">一</note>
               <note type="original-mark" n="12" rend="black">○</note>
@@ -1922,7 +1925,7 @@
               <note type="original-mark" n="15" rend="black">二</note>
             </ab>
             <ab type="column" n="5" xml:id="f12-l-c05">
-              <seg type="diplomatic-text">民比近世遠阪之人比上古此風土之別爾又身體</seg>
+              <seg type="diplomatic-text">民比近世遠陬之人比上古此風土之別爾又身體</seg>
               <note type="original-mark" n="1" rend="black">一</note>
               <note type="original-mark" n="2" rend="black">二</note>
               <note type="original-mark" n="4" rend="black">一</note>
@@ -1958,7 +1961,7 @@
               <note type="original-mark" n="17" rend="black">○</note>
             </ab>
             <ab type="column" n="9" xml:id="f12-l-c09">
-              <seg type="diplomatic-text">之滑澀疾徐皆從氣為變故必問其風土且夫富</seg>
+              <seg type="diplomatic-text">之滑澁疾徐皆從氣為變故必問其風土且夫富</seg>
               <note type="original-mark" n="7" rend="black">レ</note>
               <note type="original-mark" n="9" rend="black">レ</note>
               <note type="original-mark" n="10" rend="black">○</note>
@@ -2028,7 +2031,7 @@
               <note type="original-mark" n="17" rend="black">○</note>
             </ab>
             <ab type="column" n="6" xml:id="f13-r-c06">
-              <seg type="diplomatic-text">着則同氣必會湊以成形凡草木禽獸以至金石鹵</seg>
+              <seg type="diplomatic-text">者則同氣必會湊以成形凡草木禽獸以至金石鹵</seg>
               <note type="original-mark" n="1" rend="black">○</note>
               <note type="original-mark" n="9" rend="black">レ</note>
               <note type="original-mark" n="17" rend="black">二</note>
@@ -2334,7 +2337,7 @@
               <note type="original-mark" n="17" rend="black">二</note>
             </ab>
             <ab type="column" n="7" xml:id="f14-l-c07">
-              <seg type="diplomatic-text">則不能的知也然則醫之為事與賤隸工職何擇</seg>
+              <seg type="diplomatic-text">則不能的知也然則醫之為事與賤隷工職何擇</seg>
               <note type="original-mark" n="3" rend="black">レ</note>
               <note type="original-mark" n="6" rend="black">○</note>
               <note type="original-mark" n="11" rend="black">レ</note>
@@ -2512,7 +2515,7 @@
               <note type="original-mark" n="20" rend="black">○</note>
             </ab>
             <ab type="column" n="4" xml:id="f15-l-c04">
-              <seg type="diplomatic-text">故合和之咸有妙用而存焉凡病發見於外者隨發</seg>
+              <seg type="diplomatic-text">故合和之成有妙用而存焉凡病發見於外者隨發</seg>
               <note type="original-mark" n="3" rend="black">レ</note>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="6" rend="black">二</note>
@@ -2523,7 +2526,7 @@
               <note type="original-mark" n="19" rend="black">レ</note>
             </ab>
             <ab type="column" n="5" xml:id="f15-l-c05">
-              <seg type="diplomatic-text">動而制之伏結於內者應伏匿而滅之此方劑之所</seg>
+              <seg type="diplomatic-text">動而制之伏結於内者應伏匿而滅之此方劑之所</seg>
               <note type="original-mark" n="3" rend="black">レ</note>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="6" rend="black">二</note>
@@ -2617,7 +2620,7 @@
               <note type="original-mark" n="18" rend="black">二</note>
             </ab>
             <ab type="column" n="3" xml:id="f16-r-c03">
-              <seg type="diplomatic-text">所用雖幸有雜病論存竟屬殘缺故試之事間有所</seg>
+              <seg type="diplomatic-text">所用雖幸有雜病論存竟属殘缺故試之事間有所</seg>
               <note type="original-mark" n="1" rend="black">レ</note>
               <note type="original-mark" n="2" rend="black">一</note>
               <note type="original-mark" n="3" rend="black">二</note>
@@ -2679,7 +2682,7 @@
               <seg type="diplomatic-text">謂也</seg>
             </ab>
             <ab type="column" n="9" xml:id="f16-r-c09">
-              <seg type="diplomatic-text">今歷覽群籍唐宋猶偶有存古方者本邦亦幸有</seg>
+              <seg type="diplomatic-text">今歴覽群籍唐宋猶偶有存古方者本邦亦幸有</seg>
               <note type="original-mark" n="3" rend="black">二</note>
               <note type="original-mark" n="5" rend="black">一</note>
               <note type="original-mark" n="10" rend="black">二</note>
@@ -2865,7 +2868,7 @@
               <note type="original-mark" n="14" rend="black">○</note>
             </ab>
             <ab type="column" n="2" xml:id="f17-l-c02">
-              <seg type="diplomatic-text">毒之品決不得效然服大毒者人之所甚恐怖故古</seg>
+              <seg type="diplomatic-text">毒之品決不得効然服大毒者人之所甚恐怖故古</seg>
               <note type="original-mark" n="3" rend="black">○</note>
               <note type="original-mark" n="7" rend="black">○</note>
               <note type="original-mark" n="18" rend="black">○</note>
@@ -2931,9 +2934,9 @@
               <note type="original-mark" n="1" rend="black">○</note>
             </ab>
             <ab type="column" n="2" xml:id="f18-r-c02">
-              <seg type="diplomatic-text">當今之病宿毒居十之八而盤結堅牢不可容易解故</seg>
+              <seg type="diplomatic-text">當今之病宿毒居十之八而盤結堅牢不可容解故</seg>
               <note type="original-mark" n="4" rend="black">○</note>
-              <note type="original-mark" n="20" rend="black">○</note>
+              <note type="original-mark" n="19" rend="black">○</note>
             </ab>
             <ab type="column" n="3" xml:id="f18-r-c03">
               <seg type="diplomatic-text">不得不以內治為主內治之法非藥物無以任之故</seg>
@@ -3024,7 +3027,7 @@
               <seg type="diplomatic-text">也</seg>
             </ab>
             <ab type="column" n="9" xml:id="f18-l-c09">
-              <seg type="diplomatic-text">凡為治者唯在精氣不缺者而能收全功矣精氣有</seg>
+              <seg type="diplomatic-text">凡為治者唯在精氣不缺者而能収全功矣精氣有</seg>
               <note type="original-mark" n="4" rend="black">○</note>
               <note type="original-mark" n="11" rend="black">○</note>
               <note type="original-mark" n="17" rend="black">○</note>
@@ -3141,7 +3144,7 @@
               <note type="original-mark" n="16" rend="black">○</note>
             </ab>
             <ab type="column" n="7" xml:id="f19-l-c07">
-              <seg type="diplomatic-text">其將自治之機而後製焉此從自然之道也如是</seg>
+              <seg type="diplomatic-text">其將自治之機而後發焉此從自然之道也如是</seg>
               <note type="original-mark" n="10" rend="black">○</note>
               <note type="original-mark" n="17" rend="black">○</note>
             </ab>
@@ -3179,7 +3182,7 @@
               <note type="original-mark" n="10" rend="black">○</note>
             </ab>
             <ab type="column" n="2" xml:id="f20-r-c02">
-              <seg type="diplomatic-text">也精氣畏縮而病毒益乘之也如是者姑置病毒而</seg>
+              <seg type="diplomatic-text">也精氣畏縮而病毒益乗之也如是者姑置病毒而</seg>
               <note type="original-mark" n="1" rend="black">○</note>
               <note type="original-mark" n="12" rend="black">○</note>
               <note type="original-mark" n="15" rend="black">○</note>
@@ -3215,7 +3218,7 @@
               <note type="original-mark" n="6" rend="black">○</note>
             </ab>
             <ab type="column" n="8" xml:id="f20-r-c08">
-              <seg type="diplomatic-text">凡疾病得治者以精氣自逐毒故遂排斥之也毒</seg>
+              <seg type="diplomatic-text">凡疾病將治者以精氣自逐毒故遂排斥之也毒</seg>
               <note type="original-mark" n="6" rend="black">○</note>
               <note type="original-mark" n="12" rend="black">○</note>
               <note type="original-mark" n="18" rend="black">○</note>
@@ -3622,7 +3625,7 @@
               <note type="original-mark" n="18" rend="black">○</note>
             </ab>
             <ab type="column" n="5" xml:id="f23-l-c05">
-              <seg type="diplomatic-text">藥劑以他術為輔翼內外相俳以為全治因揭其要</seg>
+              <seg type="diplomatic-text">藥劑以他術為輔翼內外相併以為全治因揭其要</seg>
               <note type="original-mark" n="2" rend="black">○</note>
               <note type="original-mark" n="8" rend="black">○</note>
               <note type="original-mark" n="16" rend="black">○</note>
@@ -3730,7 +3733,7 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f24-l-c01">
-              <seg type="diplomatic-text">貨財人皆忍為之其或雖更增痛苦猶不辭之語云</seg>
+              <seg type="diplomatic-text">貨財人皆忍為之其或雖更増痛苦猶不辭之語云</seg>
               <note type="original-mark" n="2" rend="black">○</note>
               <note type="original-mark" n="7" rend="black">○</note>
               <note type="original-mark" n="14" rend="black">○</note>
@@ -3751,7 +3754,7 @@
               <note type="original-mark" n="20" rend="black">○</note>
             </ab>
             <ab type="column" n="4" xml:id="f24-l-c04">
-              <seg type="diplomatic-text">一則久而成效一則不日有効人必取其不日曰一</seg>
+              <seg type="diplomatic-text">一則久而成効一則不日有効人必取其不日曰一</seg>
               <note type="original-mark" n="6" rend="black">○</note>
               <note type="original-mark" n="12" rend="black">○</note>
               <note type="original-mark" n="18" rend="black">○</note>
@@ -3963,7 +3966,7 @@
               <note type="original-mark" n="16" rend="black">○</note>
             </ab>
             <ab type="column" n="3" xml:id="f26-r-c03">
-              <seg type="diplomatic-text">亦復然欲取前所施以得效於今必不能也何也以</seg>
+              <seg type="diplomatic-text">亦復然欲取前所施以得効於今必不能也何也以</seg>
               <note type="original-mark" n="3" rend="black">○</note>
               <note type="original-mark" n="8" rend="black">○</note>
               <note type="original-mark" n="13" rend="black">○</note>
@@ -4351,7 +4354,7 @@
               <note type="original-mark" n="17" rend="black">○</note>
             </ab>
             <ab type="column" n="4" xml:id="f29-r-c04">
-              <seg type="diplomatic-text">之未不得不生弊也何也奉守者遂將忘自然之體</seg>
+              <seg type="diplomatic-text">之末不得不生弊也何也奉守者遂將忘自然之體</seg>
               <note type="original-mark" n="8" rend="black">○</note>
               <note type="original-mark" n="10" rend="black">○</note>
               <note type="original-mark" n="13" rend="black">○</note>
@@ -4651,7 +4654,7 @@
               <note type="original-mark" n="14" rend="black">○</note>
             </ab>
             <ab type="column" n="2" xml:id="f32-r-c02">
-              <seg type="diplomatic-text">建後世子弟學醫者之標準爾</seg>
+              <seg type="diplomatic-text">建後世子弟學醫者之標準甬</seg>
             </ab>
             <ab type="column" n="3" xml:id="f32-r-c03">
               <seg type="diplomatic-text">文政丙戌仲秋望日</seg>
